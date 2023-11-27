@@ -19,5 +19,5 @@ def printer(names):
     for assignment in room_assignments:
         print(assignment)
 
-names = ["Arel", "Carol"]
+names = ["Joy", "Caroline"]
 printer(names)
